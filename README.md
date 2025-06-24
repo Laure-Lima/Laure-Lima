@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Bruno de Lima Laureano 😁
+## Bem-vindo(a) ao perfil do Bruno de Lima Laureano
 
  <div>
    <a href="https://github.com/Laure-Lima
